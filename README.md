@@ -2,6 +2,6 @@ SketchUp Layers aren't layers in the sense most other software use the term. Ske
 
 To separate objects in SketchUp, use groups and components. Layers are then typically applied to these groups and components to categorize them and control their visibility on a global level. For instance you can use it to hide all furniture, regardless of where in the model hierarchy it happens to be. Groups and components define this hierarchy, layers are global tags.
 
-Thinking of SketchUp layers as... well... layers is extremely common among new users, and leads to hundredas of hours of wasted frustration.
+Thinking of SketchUp layers as... well... layers is extremely common among new users, and leads to hundredas of hours of wasted frustration. It is by many considered the number one rule of SketchUp to __never__ change active layer, only apply layer information through Entity Info.
 
 This extension is written with the hope that the ability to change active layer will be removed from SketchUp's UI. If you consider yourself being a power user that knows exactly what you are doing, and have some specific use case where it can be excusable to change the active layer, you can use this extension. But typically you shouldn't!
