@@ -19,7 +19,7 @@ module ActiveLayer
   end
   
   unless @loaded
-    @laoded = true
+    @loaded = true
     
     menu = UI.menu("Plugins")
     item = menu.add_item(EXTENSION.name) { select_active_layer }
