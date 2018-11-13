@@ -20,7 +20,7 @@ module ActiveLayer
   EXTENSION.description =
     "Change active layer in SketchUp. Written with the hope that the native "\
     "active layer control will be removed."
-  EXTENSION.version     = "1.0.0"
+  EXTENSION.version     = "1.0.1"
   EXTENSION.copyright   = "2018, #{EXTENSION.creator}"
   Sketchup.register_extension(EXTENSION, true)
 
