@@ -18,8 +18,7 @@ module ActiveLayer
   )
   EXTENSION.creator     = "Eneroth3"
   EXTENSION.description =
-    "Change active layer in SketchUp. Written with the hope that the native "\
-    "active layer control will be removed."
+    "Wishing for SketchUp to remove the active layer control."
   EXTENSION.version     = "1.0.1"
   EXTENSION.copyright   = "2018, #{EXTENSION.creator}"
   Sketchup.register_extension(EXTENSION, true)
